@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inconsolata', monospace;
+    background-color: #efefef;
+}
+
+.info-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.info-sub-container {
+    margin: auto;
+}
+
+.list {
+    font-size: 18px;
+    padding: 3rem 5rem;
+}
+
+.contact {
+    padding: 0rem 5rem;
+}
+
+.contact a {
+    display: inline-block;
+    padding: 1rem 1.5rem;
+    /* border: 1px dashed #240b06; */
+    text-decoration: none;
+    background-color: #88addb;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px #0e294a;
+}
+
+.profile-photo {
+    width: 5rem;
+    border-radius: 50%;
+    display: block;
+    transform: translateX(37%);
+}
+
+.header-container {
+    padding: 2rem 5rem;
+    margin-top: 200px;
+}
+
+.name {
+    font-family: 'Inconsolata', monospace;
+ }
