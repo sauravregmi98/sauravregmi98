@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saurav Remgi, a CIVIL ENGINEER.
+- 👋 Hi, I’m Saurav Regmi, a CIVIL ENGINEER.
 - 👀 I’m interested in ENGINEERING (specifically CIVIL engineering ) and also a tech-enthusiast.
 - 🌱 I’m currently learning PYTHON language.
 - 💞️ I’m looking to collaborate on the field of engineering.
